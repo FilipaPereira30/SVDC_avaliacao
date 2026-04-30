@@ -83,3 +83,5 @@ Para garantir a integridade dos dados e a performance do Power BI, foram aplicad
 
 ![Modelo de Dados](./Imagem1.png)
 ![Modelo de Dados](./Imagem2.png)
+![Modelo de Dados](./Imagem.png)
+
