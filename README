@@ -81,3 +81,6 @@ Para garantir a integridade dos dados e a performance do Power BI, foram aplicad
 2.  **Ajuste de Cardinalidade:** A relação foi configurada com **Direção de Filtro Única** (Tabela_Anos -> owid-energy-data), seguindo as boas práticas de modelação em estrela (*Star Schema*).
 3.  **Correção de Agregações:** As métricas de *share* (percentagens) foram configuradas para **Média (Average)** em vez de Soma, garantindo que o mix energético mundial seja representado de forma estatisticamente correta.
 4.  **Categorização de Dados:** A coluna `country` foi definida com a categoria geográfica "País", permitindo a criação de visuais cartográficos precisos.
+
+![Texto Alternativo](imagem1.png)
+![Texto Alternativo](imagem2.png)
