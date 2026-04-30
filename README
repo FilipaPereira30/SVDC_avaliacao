@@ -104,20 +104,19 @@ O relatório foi organizado em três páginas distintas para proporcionar uma ex
 | Visual | Tipo | Descrição |
 | :--- | :--- | :--- |
 | **Mapa de Intensidade** | Map | Distribuição geográfica das renováveis, permitindo identificar clusters de energia limpa. |
-| **Ranking de Renováveis** | Bar Chart | Top 10 países com maior penetração de energias renováveis no mix elétrico[cite: 4]. |
+| **Ranking de Renováveis** | Bar Chart | Top 10 países com maior penetração de energias renováveis no mix elétrico. |
 | **Dispersão CO₂** | Gráfico de colunas | Verificação da progressão  da média solar e da média wind. |
 | **Slicer de País** | Gráfico de linhas | Relação entre média de renewables e a média de fossil_share. |
 
 ---
 
 ### Página 3 — Evolução Temporal e Tecnológica
-*Análise de tendências históricas e crescimento de tecnologias específicas (2000–2023)[cite: 3].*
+*Análise de tendências históricas e crescimento de tecnologias específicas (2000–2023).*
 
 | Visual | Tipo | Descrição |
 | :--- | :--- | :--- |
 | **Gráfico de Áreas Empilhadas (Evolução do Mix Energético):** | Mostra a evolução histórica do share de energias fósseis, renováveis e eólica. |
 | **Gráfico de Dispersão (Eficiência vs. Emissões)** | Correlaciona a percentagem de renováveis com o volume de emissões de gases de estufa (greenhouse_gas_emissions). |
-| **Ranking de Emissões por País (Bar Chart):** | Apresenta os maiores emissores globais (liderados por China e EUA), servindo de contexto para entender onde o esforço de transição é mais urgente. |
 | **Donut Chart (Composição Global):** | Resume a proporção média total do período analisado, evidenciando que, apesar do crescimento verde, as fontes fósseis ainda detêm a maior fatia do mix histórico (aprox. 67.4%). |
 | **Gráfico de Barras (Líderes de Share):** | Destaca países como Paraguai e Noruega que já operam com mixes elétricos quase totalmente descarbonizados.|
 ---
