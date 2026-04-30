@@ -82,5 +82,5 @@ Para garantir a integridade dos dados e a performance do Power BI, foram aplicad
 3.  **Correção de Agregações:** As métricas de *share* (percentagens) foram configuradas para **Média (Average)** em vez de Soma, garantindo que o mix energético mundial seja representado de forma estatisticamente correta.
 4.  **Categorização de Dados:** A coluna `country` foi definida com a categoria geográfica "País", permitindo a criação de visuais cartográficos precisos.
 
-![Modelo de Dados](Imagem1.png)
-![Modelo de Dados](Imagem2.png)
+![Modelo de Dados](./Imagem1.png)
+![Modelo de Dados](./Imagem2.png)
