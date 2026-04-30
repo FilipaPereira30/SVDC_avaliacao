@@ -6,7 +6,6 @@ As visualizações foram desenvolvidas em **Power BI** com base no dataset *Our 
 
 ## Dataset
 
-- **Fonte:** [Our World in Data – Energy](https://github.com/owid/energy-data)
 - **Ficheiro:** `owid-energy-data.csv`
 - **Dimensão original:** 23.377 linhas × 130 colunas
 - **Cobertura temporal:** 1900 – 2025
